@@ -48,5 +48,4 @@
  * 移民美国/加拿大
  * do something can change the world
  * youtube主播
- * 生活富足
- * 全球旅行
+ 
