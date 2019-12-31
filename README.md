@@ -42,4 +42,6 @@
  
 ## 长期目标
  * 移民美国/加拿大
+ * do something can change the world
+ * youtube主播
  
