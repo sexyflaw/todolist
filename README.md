@@ -1,6 +1,6 @@
 ## 项目计划
 
-* blog-microservice `微服务-公共组件项目 以组建blog为例`
+* **blog-microservice** `微服务-公共组件项目 以组建blog为例`
   * Springcloud全组件
   * ELK
   * MQ
@@ -9,13 +9,13 @@
   * docker
   
 
-* note-gitbook `分享笔记`
+* **note-gitbook** `分享笔记`
 
-* news-go  `go实现爬取BBC，NY Times 新闻`
+* **news-go**  `go实现爬取BBC，NY Times 新闻`
 
-* news-python  `python实现爬取BBC，NY Times 新闻`
+* **news-python**  `python实现爬取BBC，NY Times 新闻`
 
-* ladder-go `go实现翻墙代理`
+* **ladder-go** `go实现翻墙代理`
 
 ## 考试计划
  
