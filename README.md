@@ -40,6 +40,10 @@
  
  * 托福核心单词
  
+ ### 人文科学
+ * 美国政治体制
+ * 美国历史
+ 
 ## 长期目标
  * 移民美国/加拿大
  * do something can change the world
