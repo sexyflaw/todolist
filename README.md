@@ -11,9 +11,9 @@
 
 * **note-gitbook** `分享笔记`
 
-* **news-go**  `go实现爬取BBC，NY Times 新闻`
+* **news-go**  `go实现爬取BBC，NY Times 新闻，维基新闻`
 
-* **news-python**  `python实现爬取BBC，NY Times 新闻`
+* **news-python**  `python实现爬取BBC，NY Times 新闻，维基新闻`
 
 * **ladder-go** `go实现翻墙代理`
 
