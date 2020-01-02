@@ -15,13 +15,13 @@
 
 * **news-python**  `python实现爬取BBC，NY Times 新闻，维基新闻`
 
-* **fgfw-go** `go实现翻墙代理`
-
 * **just4fun**   `有趣的东西`
 
 * **first-android-app** `我的第一款android app`
 
 * **first-ios-app** `我的第一款ios app`
+
+* **first-unity3D-android-app** `我的第一款游戏android app`
 
 ## 考试计划
  
