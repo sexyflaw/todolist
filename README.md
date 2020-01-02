@@ -15,7 +15,7 @@
 
 * **news-python**  `python实现爬取BBC，NY Times 新闻，维基新闻`
 
-* **ladder-go** `go实现翻墙代理`
+* **fgfw-go** `go实现翻墙代理`
 
 * **just4fun**   `有趣的东西`
 
