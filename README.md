@@ -19,6 +19,10 @@
 
 * **just4fun**   `有趣的东西`
 
+* **first-android-app** `我的第一款android app`
+
+* **first-ios-app** `我的第一款ios app`
+
 ## 考试计划
  
  * 2020年3月28日 二级python
