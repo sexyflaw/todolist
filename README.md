@@ -4,8 +4,8 @@
 |[note-gitbook](https://github.com/sexyflaw/note-gitbook)|分享笔记|2020/01/03|否|0%|
 |[proxy-app](https://github.com/sexyflaw/proxy-app)|翻墙指引|2020/01/04|否|0%|
 |[blog-microservice](https://github.com/sexyflaw/blog-microservice)|博客微服务|2020/04/01|否|0%|
-|[news-go](https://github.com/sexyflaw/news-go)|新闻爬虫go|2020/04/01|否|0%|
-|[news-python](https://github.com/sexyflaw/news-python)|新闻爬虫python|2020/04/01|否|0%|
+|[news-go](https://github.com/sexyflaw/news-go)|新闻爬虫go|-|否|0%|
+|[news-python](https://github.com/sexyflaw/news-python)|新闻爬虫python|-|否|0%|
 |first-android-app|我的安卓应用|-|否|0%|
 |first-ios-app|我的ios应用|-|否|0%|
 |first-unity3D-android-app|我的游戏安卓应用|-|否|0%|
