@@ -8,14 +8,13 @@
   * MySQL
   * docker
   
+* **proxyapp** `翻墙指引`
 
 * **note-gitbook** `分享笔记`
 
 * **news-go**  `go实现爬取BBC，NY Times 新闻，维基新闻`
 
 * **news-python**  `python实现爬取BBC，NY Times 新闻，维基新闻`
-
-* **just4fun**   `有趣的东西`
 
 * **first-android-app** `我的第一款android app`
 
